@@ -27,7 +27,7 @@ export default defineConfig({
 
     editLink: {
       pattern:
-        "https://github.com/FrederickBun/How-To-Use-GitHub/edit/main/:path",
+        "https://github.com/FrederickBun/How-To-Use-GitHub/edit/dev/docs/:path",
       text: "在 GitHub 上编辑此页",
     }
   }
